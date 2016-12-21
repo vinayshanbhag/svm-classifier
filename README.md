@@ -1,2 +1,2 @@
-# svm-classifier
-Classification of content into categories using linear svc
+# Classify TechCrunch posts into categories using linear SVM
+https://www.kaggle.com/vinayshanbhag/d/thibalbo/techcrunch-posts-compilation/classify-posts-into-categories
